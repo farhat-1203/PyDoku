@@ -32,7 +32,6 @@ A Python-based Sudoku Solver and Generator using the Tkinter library for a graph
     ```
 
 2. **Run the Script**:
-    Run the Python script to control media through gestures:
     ```bash
     python3 main.py
     ```
